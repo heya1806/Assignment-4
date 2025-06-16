@@ -1,15 +1,22 @@
 # Assignment-4
-This Python asignment consists of two tasks demonstrating the use of 'reading a file and handle errors' and 'to write and append data a file'.
+This repository contains solution to Assignment-4 for the pytho course. It includes two tasks
 
 ## Task - 1
 Read a file and handle errors
+-read a file and handle potential file errors
+-demonstartes use of 'try-except' blocks in python
 
 ## Task- 2
 Write and append data to a file
+-writes user iputs to a text file.
+-appends additional data and reads the final content
 
 #How to run
 -Open files in pycharm
 -Run the scripts
 -Follow the input prompts
 
-MADE BY HEYA
+## Notes
+-sample test data can be added manually when prompted
+
+MADE BY HEYA CHHAJER
